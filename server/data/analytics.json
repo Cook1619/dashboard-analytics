@@ -1,0 +1,103 @@
+{
+  "pageViews": [
+    {
+      "date": "2024-01-01",
+      "views": 1250,
+      "uniqueVisitors": 890
+    },
+    {
+      "date": "2024-01-02",
+      "views": 1420,
+      "uniqueVisitors": 995
+    },
+    {
+      "date": "2024-01-03",
+      "views": 1180,
+      "uniqueVisitors": 820
+    },
+    {
+      "date": "2024-01-04",
+      "views": 1680,
+      "uniqueVisitors": 1150
+    },
+    {
+      "date": "2024-01-05",
+      "views": 1890,
+      "uniqueVisitors": 1320
+    },
+    {
+      "date": "2024-01-06",
+      "views": 1560,
+      "uniqueVisitors": 1080
+    },
+    {
+      "date": "2024-01-07",
+      "views": 1340,
+      "uniqueVisitors": 950
+    }
+  ],
+  "revenue": [
+    {
+      "month": "January",
+      "amount": 12500,
+      "target": 15000
+    },
+    {
+      "month": "February",
+      "amount": 15800,
+      "target": 16000
+    },
+    {
+      "month": "March",
+      "amount": 18200,
+      "target": 17000
+    },
+    {
+      "month": "April",
+      "amount": 14300,
+      "target": 18000
+    },
+    {
+      "month": "May",
+      "amount": 22100,
+      "target": 20000
+    },
+    {
+      "month": "June",
+      "amount": 25400,
+      "target": 22000
+    }
+  ],
+  "conversions": [
+    {
+      "source": "Google Ads",
+      "rate": 3.2,
+      "visitors": 2500,
+      "conversions": 80
+    },
+    {
+      "source": "Facebook",
+      "rate": 2.8,
+      "visitors": 1800,
+      "conversions": 50
+    },
+    {
+      "source": "Organic Search",
+      "rate": 4.1,
+      "visitors": 3200,
+      "conversions": 131
+    },
+    {
+      "source": "Email Campaign",
+      "rate": 5.5,
+      "visitors": 900,
+      "conversions": 49
+    },
+    {
+      "source": "Direct Traffic",
+      "rate": 6.2,
+      "visitors": 1500,
+      "conversions": 93
+    }
+  ]
+}

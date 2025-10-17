@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "role": "Admin",
+    "status": "active",
+    "joinDate": "2023-01-15",
+    "plan": "premium",
+    "avatar": "https://via.placeholder.com/40",
+    "lastLogin": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "role": "User",
+    "status": "active",
+    "joinDate": "2023-02-20",
+    "plan": "basic",
+    "avatar": "https://via.placeholder.com/40",
+    "lastLogin": "2024-01-14T15:20:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Mike Johnson",
+    "email": "mike.johnson@example.com",
+    "role": "User",
+    "status": "inactive",
+    "joinDate": "2023-03-10",
+    "plan": "premium",
+    "avatar": "https://via.placeholder.com/40",
+    "lastLogin": "2024-01-10T09:15:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Sarah Wilson",
+    "email": "sarah.wilson@example.com",
+    "role": "Moderator",
+    "status": "active",
+    "joinDate": "2023-12-05",
+    "plan": "premium",
+    "avatar": "https://via.placeholder.com/40",
+    "lastLogin": "2024-01-15T08:45:00Z"
+  },
+  {
+    "id": 5,
+    "name": "David Brown",
+    "email": "david.brown@example.com",
+    "role": "User",
+    "status": "active",
+    "joinDate": "2024-01-01",
+    "plan": "basic",
+    "avatar": "https://via.placeholder.com/40",
+    "lastLogin": "2024-01-13T12:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Emily Davis",
+    "email": "emily.davis@example.com",
+    "role": "User",
+    "status": "active",
+    "joinDate": "2023-11-20",
+    "plan": "basic",
+    "avatar": "https://via.placeholder.com/40",
+    "lastLogin": "2024-01-14T16:30:00Z"
+  }
+]
